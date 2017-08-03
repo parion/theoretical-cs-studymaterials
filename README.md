@@ -20,7 +20,7 @@ Materials in this repo are included for the sole purpose to study with in prepar
 There are six chapters from the book Introduction to the Theory of Computation (3<sup>rd</sup> Edition) that were covered in lecture and will be covered in the final exam. In this repo, each chapter is broken down into four sections:
 
 * <b>Lectures:</b> Lectures are PDFs of Ryan Dougherty's notes for the Summer 2017 CSE 355 course. These notes should be considered the ASU gold standard and are the most important resource on this page. Along with the PDFs are Ryan's YouTube videos for each set of notes, some sectioned off by breaks, which he has graciously provided us.
-* <b>Resources:</b> Resources are external sites or documents that cover the same topics in class. These external resources may teach concepts in different ways that may help you understand the material better. However, as they are taught differently, these resources' content must be taken with a grain of salt and you must make sure to refer to Ryan's lecture notes to make sure you understand the content as taught in class.
+* <b>Resources:</b> Resources are external sites or documents that cover the same topics in class. These external resources may teach concepts in different ways that may help you understand the material better. However, as they are taught differently, these resources' content must be taken with a grain of salt and you must make sure to refer to Ryan's lecture notes to make sure you understand the content as taught in class. Since TutorialsPoint and GeeksforGeeks cover virtually every topic in Theory of Computation, only the sections are listed. If a section is linked, 📓 will be placed next to it.
 * <b>Sample Problems:</b> Sample problems consist of problems that were found on external sites. All problem sets contain solutions along with the problems. However, even though these solutions may be mostly correct, their formatting or procedures may differ than what is actually expected on the exam.
 * <b>Recap:</b> This section recaps concepts and topics you should be familiar with after reviewing each chapter. These concepts and topics many not all appear on the exam. Thanks to user Motunrayo on Piazza for the list of topics.
 
@@ -39,12 +39,14 @@ The first chapter covers regular languages including topics like DFAs, NFAs, Pro
 * [Regular Grammars](./chapter1/05%20Regular%20Grammars.pdf) ([YouTube](https://www.youtube.com/watch?v=Y-XHPjKM9mE)) (First half of lecture notes)
 
 ### Resources
-* [Finite Automata (GeekforGeeks)](http://www.geeksforgeeks.org/toc-finite-automata-introduction/)
-* [NFA to DFA Conversion (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-conversion-from-nfa-to-dfa/)
-* [Pumping Lemma(GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-pumping-lemma/)
-* [Regular Expressions, Regular Grammar and Regular Languages (GeekforGeeks)](http://www.geeksforgeeks.org/regular-expressions-regular-grammar-and-regular-languages/)
-* [Designing Finite Automata from Regular Expression (GeekforGeeks)](http://www.geeksforgeeks.org/designing-finite-automata-from-regular-expression/)
+* 📓 [Introduction (GeeksforGeeks)](http://www.geeksforgeeks.org/toc-finite-automata-introduction/)
+* 📓 [CFG and CFL (GeekforGeeks)](http://www.geeksforgeeks.org/toc-chomsky-hierarchy/)
+* 📓 [Automata Theory Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/index.htm)
+* 📓 [Classification of Grammars (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/introduction_to_grammars.htm)
+* 📓 [Regular Grammar (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/introduction_to_grammars.htm)
 * [From DFAs/NFAs to Regular Expressions](https://pdfs.semanticscholar.org/f297/8c9662fc3231de2b3e201491d88b91917aae.pdf)
+
+<i>Note: TutorialsPoint refers to NFAs as NDFAs</i>
 
 ### Sample Problems
 * [DFAs Problem Set](https://courses.engr.illinois.edu/cs373/fa2011/problem_sets/ps_1_sol.pdf)
@@ -77,14 +79,10 @@ By the end of this section, you should know how to
 * [PL for CFLs Continued](./chapter3/09%20Turing%20Machines.pdf) ([YouTube](https://www.youtube.com/watch?v=3FxvADTwcMc)) (1<sup>st</sup> & 2<sup>nd</sup> pages of lecture notes)
 
 ### Resources
-* [Chomsky Hierarchy (GeekforGeeks)](http://www.geeksforgeeks.org/toc-chomsky-hierarchy/)
-* [Simplifying Context Free Grammars [into CNF] (GeekforGeeks)](http://www.geeksforgeeks.org/simplifying-context-free-grammars/)
-* [Chomsky Normal Form (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/chomsky_normal_form.htm)
-* [Closure Properties of Context Free Languages (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-closure-properties-of-context-free-languages/)
-* [Pushdown Automata (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-pushdown-automata/)
-* [PDA & Context-Free Grammar (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/pda_context_free_grammar.htm)
-* [Pumping Lemma (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-pumping-lemma/)
-* [Ambiguity in CFG and CFL (GeekforGeeks)](http://www.geeksforgeeks.org/ambiguity-in-context-free-grammar-and-context-free-languages-2/)
+* 📓 [CFG and CFL (GeeksforGeeks)](http://www.geeksforgeeks.org/toc-chomsky-hierarchy/)
+* [Pushdown Automata (GeeksforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-pushdown-automata/)
+* 📓 [Context-Free Grammars (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/context_free_grammar_introduction.htm)
+* 📓 [Pushdown Automata (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/pushdown_automata_introduction.htm)
 
 ### Sample Problems
 * [Example Conversion to Chomsky Normal Form (2<sup>nd</sup> page)](https://courses.cs.washington.edu/courses/cse322/08au/lec14.pdf)
@@ -105,6 +103,7 @@ By the end of this section, you should know how to
 
 ### Resources
 * [Turing Machine (GeekforGeeks)](http://www.geeksforgeeks.org/turing-machine/)
+* 📓 [Turing Machine (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/turing_machine_introduction.htm)
 
 ### Sample Problems
 
@@ -123,6 +122,7 @@ By the end of this section, you should know how to
 ### Resources
 * [Recursive and Recursive Enumerable Languages (GeekforGeeks)](http://www.geeksforgeeks.org/recursive-and-recursive-enumerable-languages/)
 * [Decidability (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-decidability/)
+* [Language Decidability (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/language_decidability.htm)
 
 
 ### Sample Problems
@@ -141,6 +141,8 @@ By the end of this section, you should know how to
 
 ### Resources
 * [Undecidability and Reducibility](http://www.geeksforgeeks.org/undecidability-and-reducibility/)
+* [Undecidable Languages (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/undecidable_languages.htm)
+* [Rice's Theorem (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/rice_theorem.htm)
 
 ### Sample Problems
 
@@ -160,7 +162,9 @@ Topics covered in Chapter 7 are extra credit topics. There may be an extra credi
 * [P/NP & Cook-Levin Theorem & CLIQUE](./chapter7/14%20P%20NP%20&%20Cook-Levin%20Theorem%20&%20CLIQUE.pdf) (YouTube [1](https://www.youtube.com/watch?v=3d5h6SQteHs) [2](https://www.youtube.com/watch?v=5GAAOI9F6r0))
 
 ### Resources
-
+* [P & NP Class (TutorialsPoint)](https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_p_np_class.htm)
+* [Cook's Theorem (TutorialsPoint)](https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_cooks_theorem.htm)
+* [NP Hard and NP-Complete Classes (TutorialsPoint)](https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_np_hard_complete_classes.htm)
 
 ### Sample Problems
 
