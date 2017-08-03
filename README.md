@@ -1,6 +1,19 @@
 # CSE 355 Final Study Guide
 Materials and sources that might help with studying for the ASU CSE 355 Summer 2017 Final Exam. <b>This page will continually be updated with new content.</b>
 
+## Contents
+* [Introduction](#introduction)
+* [Chapter 1: Regular Languages](#chapter-1-regular-languages)
+* [Chapter 2: Context-Free Languages](#chapter-2-context-free-languages)
+* [Chapter 3: The Church Turning Thesis](#chapter-3-the-church-turning-thesis)
+* [Chapter 4: Decidability](#chapter-4-decidability)
+* [Chapter 5: Undecidability/Reducibility](#chapter-5-undecidabilityreducibility)
+* [Chapter 7: Time Complexity](#chapter-7-time-complexity)
+* [Other Resources](#other-resources)
+* [Recitations](#recitations)
+* [Previous Final Exam Review Session](#previous-final-exam-review-session)
+* [Contributing](#contributing)
+
 ## Introduction
 Materials in this repo are included for the sole purpose to study with in preparation for the ASU CSE 355 Final Exam for the Summer 2017 semester. I have no idea if these will be useful or helpful. I just want to do good on the final, man. 
 
@@ -9,7 +22,7 @@ There are six chapters from the book Introduction to the Theory of Computation (
 * <b>Lectures:</b> Lectures are PDFs of Ryan Dougherty's notes for the Summer 2017 CSE 355 course. These notes should be considered the ASU gold standard and are the most important resource on this page. Along with the PDFs are Ryan's YouTube videos for each set of notes, some sectioned off by breaks, which he has graciously provided us.
 * <b>Resources:</b> Resources are external sites or documents that cover the same topics in class. These external resources may teach concepts in different ways that may help you understand the material better. However, as they are taught differently, these resources' content must be taken with a grain of salt and you must make sure to refer to Ryan's lecture notes to make sure you understand the content as taught in class.
 * <b>Sample Problems:</b> Sample problems consist of problems that were found on external sites. All problem sets contain solutions along with the problems. However, even though these solutions may be mostly correct, their formatting or procedures may differ than what is actually expected on the exam.
-* <b>Recap:</b> This section recaps concepts and topics you should be familiar with after reviewing each chapter. These concepts and topics many not all appear on the exam.
+* <b>Recap:</b> This section recaps concepts and topics you should be familiar with after reviewing each chapter. These concepts and topics many not all appear on the exam. Thanks to user Motunrayo on Piazza for the list of topics.
 
 The problem sets and midterm solutions from the 355 class were purposely left out of this repository as their solutions will not be made public. However, it is recommended that you go back and check these documents out for yourselves and retry these problems yourselves for optimal studying.
 
@@ -30,6 +43,7 @@ The first chapter covers regular languages including topics like DFAs, NFAs, Pro
 * [NFA to DFA Conversion (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-conversion-from-nfa-to-dfa/)
 * [Pumping Lemma(GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-pumping-lemma/)
 * [Regular Expressions, Regular Grammar and Regular Languages (GeekforGeeks)](http://www.geeksforgeeks.org/regular-expressions-regular-grammar-and-regular-languages/)
+* [Designing Finite Automata from Regular Expression (GeekforGeeks)](http://www.geeksforgeeks.org/designing-finite-automata-from-regular-expression/)
 * [From DFAs/NFAs to Regular Expressions](https://pdfs.semanticscholar.org/f297/8c9662fc3231de2b3e201491d88b91917aae.pdf)
 
 ### Sample Problems
@@ -63,15 +77,23 @@ By the end of this section, you should know how to
 * [PL for CFLs Continued](./chapter3/09%20Turing%20Machines.pdf) ([YouTube](https://www.youtube.com/watch?v=3FxvADTwcMc)) (1<sup>st</sup> & 2<sup>nd</sup> pages of lecture notes)
 
 ### Resources
-
+* [Chomsky Hierarchy (GeekforGeeks)](http://www.geeksforgeeks.org/toc-chomsky-hierarchy/)
+* [Simplifying Context Free Grammars [into CNF] (GeekforGeeks)](http://www.geeksforgeeks.org/simplifying-context-free-grammars/)
+* [Chomsky Normal Form (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/chomsky_normal_form.htm)
+* [Closure Properties of Context Free Languages (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-closure-properties-of-context-free-languages/)
+* [Pushdown Automata (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-pushdown-automata/)
+* [PDA & Context-Free Grammar (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/pda_context_free_grammar.htm)
+* [Pumping Lemma (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-pumping-lemma/)
+* [Ambiguity in CFG and CFL (GeekforGeeks)](http://www.geeksforgeeks.org/ambiguity-in-context-free-grammar-and-context-free-languages-2/)
 
 ### Sample Problems
+* [Example Conversion to Chomsky Normal Form (2<sup>nd</sup> page)](https://courses.cs.washington.edu/courses/cse322/08au/lec14.pdf)
 
 
 ### Recap
 By the end of this section, you should know how to
-- [ ]  convert a CFG into a PDA.
 - [ ]  write a CFG in CNF.
+- [ ]  convert a CFG to a PDA.
 - [ ]  convert a PDA to a CFG.
 - [ ]  apply the pumping lemma for CFLs.
 
@@ -82,7 +104,7 @@ By the end of this section, you should know how to
 * [Nondeterministic Turing Machines](./chapter3/10%20Nondeterministic%20Turing%20Machines%20&%20Enumerable%20Languages%20&%20Encodings.pdf) ([YouTube](https://www.youtube.com/watch?v=a9_TPfe4ViQ)) (First half of lecture notes)
 
 ### Resources
-
+* [Turing Machine (GeekforGeeks)](http://www.geeksforgeeks.org/turing-machine/)
 
 ### Sample Problems
 
@@ -99,6 +121,8 @@ By the end of this section, you should know how to
 * [Decidable Languages](./chapter4/11%20Decidable%20&%20Undecidable%20Languages.pdf) ([YouTube](https://www.youtube.com/watch?v=FhMipGzMJ48)) (First half of lecture notes)
 
 ### Resources
+* [Recursive and Recursive Enumerable Languages (GeekforGeeks)](http://www.geeksforgeeks.org/recursive-and-recursive-enumerable-languages/)
+* [Decidability (GeekforGeeks)](http://www.geeksforgeeks.org/theory-of-computation-decidability/)
 
 
 ### Sample Problems
@@ -116,7 +140,7 @@ By the end of this section, you should know how to
 * [Rice's Theorem Continued & Linear Bounded Automata](./chapter5/13%20Rice%27s%20Theorem%20Continued%20&%20Linear%20Bounded%20Automata%20&%20Intro%20to%20P%20NP.pdf) ([YouTube](https://www.youtube.com/watch?v=NgY4edrGjqA)) (First half of lecture notes)
 
 ### Resources
-
+* [Undecidability and Reducibility](http://www.geeksforgeeks.org/undecidability-and-reducibility/)
 
 ### Sample Problems
 
@@ -127,7 +151,7 @@ By the end of this section, you should know how to
 
 
 ## Chapter 6: Advanced Topics in Computability Theory
-Chapter 6 was not covered in class and, thus, will not be covered in the final exam.
+<i>Chapter 6 was not covered in class and, thus, will not be covered in the final exam.</i>
 
 ## Chapter 7: Time Complexity
 Topics covered in Chapter 7 are extra credit topics. There may be an extra credit problem on the test asking about one of these topics.
@@ -148,7 +172,7 @@ By the end of this section, you should know how to
 
 ***
 ## Other Resources
-* [Introduction ot the Theory of Computation Solutions](https://docs.google.com/file/d/0B1pmMQxkzlYfU0dzZ2trbWl4bmM/edit): <i>This is a PDF of the solutions to problems in the book. It's suggested that you go through the problem sets for each chapter in the book and attempt to work out solutions before looking at this PDF. This link may be broken in the future if the PDF is removed.</i>
+* [Introduction to the Theory of Computation Solutions](https://docs.google.com/file/d/0B1pmMQxkzlYfU0dzZ2trbWl4bmM/edit): <i>This is a PDF of the solutions to problems in the book. It's suggested that you go through the problem sets for each chapter in the book and attempt to work out solutions before looking at this PDF. This link may be broken in the future if the PDF is removed.</i>
 
 ## Recitations
 There were four recitations over the course of the semester. You can find the PDFs of the worksheets to these recitations in the Recitations folder on the 355 page. These PDFs don't have the solutions to the problems and there's no known video source of the recitations.
