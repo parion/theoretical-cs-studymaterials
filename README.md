@@ -1,8 +1,8 @@
 # CSE 355 Final Study Materials
-Materials that might help studying for the CSE 355 Final Exam
+Materials and sources that might help with studying for the ASU CSE 355 Summer 2017 Final Exam. This page will continually be updated with new content.
 
 ## Introduction
-Materials in this repo are included for the sole purpose to study with in preparation for the ASU CSE 355 Final Exam for the Summer 2017 semester. I have no idea if these will be useful or helpful. I just want to do good, man. 
+Materials in this repo are included for the sole purpose to study with in preparation for the ASU CSE 355 Final Exam for the Summer 2017 semester. I have no idea if these will be useful or helpful. I just want to do good on the final, man. 
 
 There are six chapters from the book Introduction to the Theory of Computation (3<sup>rd</sup> Edition) that were covered in lecture and will be covered in the final exam. Each chapter is broken down into three sections:
 
@@ -11,6 +11,8 @@ There are six chapters from the book Introduction to the Theory of Computation (
 * <b>Sample Problems:</b> Sample problems consist of problems that were found on external sites. All problem sets contain solutions along with the problems. However, even though these solutions may be mostly correct, their formatting or procedures may differ than what is actually expected on the exam.
 
 The problem sets and midterm solutions from the 355 class were purposely left out of this repository as their solutions will not be made public. However, it is recommended that you go back and check these documents out for yourselves and retry these problems yourselves for optimal studying.
+
+If you wish to make a suggestion or contribute to the repository, please see [Contributing](#contributing).
 
 ## Chapter 1: Regular Languages
 The first chapter covers regular languages including topics like DFAs, NFAs, Product & Powerset Construction, Regular Expressions, Pumping Lemma, and Regular Grammar.
@@ -69,3 +71,20 @@ While there is a section in the book for Chapter 6, there appears to be no lectu
 ### Lectures
 * [Intro to P/NP](./chapter5/Rice%27s%20Theorem%20Continued%20&%20Linear%20Bounded%20Automata%20&%20Intro%20to%20P%20NP.pdf) ([YouTube](https://www.youtube.com/watch?v=3d5h6SQteHs)) (Second half of lecture notes)
 * [P/NP & Cook-Levin Theorem & CLIQUE](./chapter7/14%20P%20NP%20&%20Cook-Levin%20Theorem%20&%20CLIQUE.pdf) (YouTube [1](https://www.youtube.com/watch?v=3d5h6SQteHs) [2](https://www.youtube.com/watch?v=5GAAOI9F6r0))
+
+***
+
+## Recitations
+There were four recitations over the course of the semester. You can find the PDFs of the worksheets to these recitations in the Recitations folder on the 355 page. These PDFs don't have the solutions to the problems and there's no known video source of the recitations.
+
+However, Ryan Dougherty has a [YouTube playlist](https://www.youtube.com/playlist?list=PLhDf93xuCzIHRsAK-GpPt_dHJBNvFS7Bf) of all his recordings for his Spring 2017 CSE 355 recitations. Most videos will look identical to others since Ryan had multiple recitations every week.
+
+## Previous Final Exam Review Session
+For the Spring 2017 CSE 355 class, Ryan held a final exam review session during class. The video can be seen [here](https://youtu.be/B78ZPXRseIU). Do note that some of the content may have changed since.
+
+## Contributing
+If you wish to help mantain, update, or fix the information in this repository, great! Please feel free to suggest external resources and sample problems, suggest typo fixes, etc. There are two ways you can contribute.
+#### Create a new issue
+Create a new issue and assign the appropriate label to it. I will get around to looking at your suggestion/fix and implement any changes if needed.
+#### Submit a pull request
+If you want to dive into the repo itself, awesome! Clone this repository, make any edits, and submit a pull request. I'll review the request and merge if I approve.
