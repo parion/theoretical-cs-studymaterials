@@ -182,12 +182,12 @@ By the end of this section, you should know how to
 * [Introduction to the Theory of Computation Solutions](https://docs.google.com/file/d/0B1pmMQxkzlYfU0dzZ2trbWl4bmM/edit): <i>This is a PDF of the solutions to problems in the book. It's suggested that you go through the problem sets for each chapter in the book and attempt to work out solutions before looking at this PDF. This link may be broken in the future if the PDF is removed.</i>
 * [Practice Problems for Final Exam](https://web.njit.edu/~marvin/cs341/oldexams/practice-final-soln.pdf): <i>These practice problems are <b>not</b> for the ASU CSE 355 courses. However, even though these are practice problems for a NJIT final exam, a review of these problems showed they are similar to ones we've seen in class and on previous exams. Friendly reminder to take their procedures and approaches to the problems with a grain of salt and always follow the procedures taught in class.</i>
 
-## Recitations
+### Recitations
 There were four recitations over the course of the semester. You can find the PDFs of the worksheets to these recitations in the Recitations folder on the 355 page. These PDFs don't have the solutions to the problems and there's no known video source of the recitations.
 
 However, Ryan Dougherty has a [YouTube playlist](https://www.youtube.com/playlist?list=PLhDf93xuCzIHRsAK-GpPt_dHJBNvFS7Bf) of all his recordings for his Spring 2017 CSE 355 recitations. Most videos will look identical to others since Ryan had multiple recitations every week.
 
-## Previous Final Exam Review Session
+### Previous Final Exam Review Session
 For the Spring 2017 CSE 355 class, Ryan held a final exam review session during class. The video can be seen [here](https://youtu.be/B78ZPXRseIU). Do note that some of the content may have changed since.
 
 ## Contributing
