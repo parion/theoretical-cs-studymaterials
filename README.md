@@ -86,6 +86,7 @@ By the end of this section, you should know how to
 
 ### Sample Problems
 * [Example Conversion to Chomsky Normal Form (2<sup>nd</sup> page)](https://courses.cs.washington.edu/courses/cse322/08au/lec14.pdf)
+* [CFG/PDA Exam Sample Solutions (includes DFA/NFA content as well)](http://www.cs.loyola.edu/~jglenn/478/S2011/Homework/x1_practice_solutions.html)
 
 
 ### Recap
@@ -106,7 +107,7 @@ By the end of this section, you should know how to
 * 📓 [Turing Machine (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/turing_machine_introduction.htm)
 
 ### Sample Problems
-
+* [Turing Machine Exam Solutions (includes topics from Chapter 4)](http://www3.cs.stonybrook.edu/~ram/cse303/final_sample_sol.pdf)
 
 ### Recap
 By the end of this section, you should know how to
@@ -126,7 +127,7 @@ By the end of this section, you should know how to
 
 
 ### Sample Problems
-
+<i>No sample problems found for this chapter. Found some? [Consider contributing.](#contributing)</i>
 
 ### Recap
 By the end of this section, you should know how to
@@ -145,6 +146,7 @@ By the end of this section, you should know how to
 * [Rice's Theorem (TutorialsPoint)](https://www.tutorialspoint.com/automata_theory/rice_theorem.htm)
 
 ### Sample Problems
+<i>No sample problems found for this chapter. Found some? [Consider contributing.](#contributing)</i>
 
 
 ### Recap
@@ -167,6 +169,7 @@ Topics covered in Chapter 7 are extra credit topics. There may be an extra credi
 * [NP Hard and NP-Complete Classes (TutorialsPoint)](https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_np_hard_complete_classes.htm)
 
 ### Sample Problems
+<i>No sample problems found for this chapter. Found some? [Consider contributing.](#contributing)</i>
 
 
 ### Recap
@@ -177,6 +180,7 @@ By the end of this section, you should know how to
 ***
 ## Other Resources
 * [Introduction to the Theory of Computation Solutions](https://docs.google.com/file/d/0B1pmMQxkzlYfU0dzZ2trbWl4bmM/edit): <i>This is a PDF of the solutions to problems in the book. It's suggested that you go through the problem sets for each chapter in the book and attempt to work out solutions before looking at this PDF. This link may be broken in the future if the PDF is removed.</i>
+* [Practice Problems for Final Exam](https://web.njit.edu/~marvin/cs341/oldexams/practice-final-soln.pdf): <i>These practice problems are <b>not</b> for the ASU CSE 355 courses. However, even though these are practice problems for a NJIT final exam, a review of these problems showed they are similar to ones we've seen in class and on previous exams. Friendly reminder to take their procedures and approaches to the problems with a grain of salt and always follow the procedures taught in class.</i>
 
 ## Recitations
 There were four recitations over the course of the semester. You can find the PDFs of the worksheets to these recitations in the Recitations folder on the 355 page. These PDFs don't have the solutions to the problems and there's no known video source of the recitations.
