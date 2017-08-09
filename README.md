@@ -10,8 +10,6 @@ Materials and sources that might help with studying for the ASU CSE 355 Summer 2
 * [Chapter 5: Undecidability/Reducibility](#chapter-5-undecidabilityreducibility)
 * [Chapter 7: Time Complexity](#chapter-7-time-complexity)
 * [Other Resources](#other-resources)
-* [Recitations](#recitations)
-* [Previous Final Exam Review Session](#previous-final-exam-review-session)
 * [Contributing](#contributing)
 
 ## Introduction
@@ -160,7 +158,7 @@ By the end of this section, you should know how to
 ## Chapter 7: Time Complexity
 Topics covered in Chapter 7 are extra credit topics. There may be an extra credit problem on the test asking about one of these topics.
 ### Lectures
-* [Intro to P/NP](./chapter5/Rice%27s%20Theorem%20Continued%20&%20Linear%20Bounded%20Automata%20&%20Intro%20to%20P%20NP.pdf) ([YouTube](https://www.youtube.com/watch?v=3d5h6SQteHs)) (Second half of lecture notes)
+* [Intro to P/NP](./chapter5/13%20Rice%27s%20Theorem%20Continued%20&%20Linear%20Bounded%20Automata%20&%20Intro%20to%20P%20NP.pdf) ([YouTube](https://www.youtube.com/watch?v=3d5h6SQteHs)) (Second half of lecture notes)
 * [P/NP & Cook-Levin Theorem & CLIQUE](./chapter7/14%20P%20NP%20&%20Cook-Levin%20Theorem%20&%20CLIQUE.pdf) (YouTube [1](https://www.youtube.com/watch?v=3d5h6SQteHs) [2](https://www.youtube.com/watch?v=5GAAOI9F6r0))
 
 ### Resources
