@@ -177,6 +177,7 @@ By the end of this section, you should know how to
 
 ***
 ## Other Resources
+* <b>[Easy Theory](https://www.youtube.com/channel/UC3VY6RTXegnoSD_q446oBdg)</b>: Ryan Doughtery, the aforementioned professor and author of many of the notes in this repository has started a YouTube channel going over algorithms and theoretical computation. His uploads include proofs, explanations, exam solution livestreams, and more. His channel is a great companion piece to any theoretical computer science course.
 * [Introduction to the Theory of Computation Solutions](https://docs.google.com/file/d/0B1pmMQxkzlYfU0dzZ2trbWl4bmM/edit): <i>This is a PDF of the solutions to problems in the book. It's suggested that you go through the problem sets for each chapter in the book and attempt to work out solutions before looking at this PDF. This link may be broken in the future if the PDF is removed.</i>
 * [Practice Problems for Final Exam](https://web.njit.edu/~marvin/cs341/oldexams/practice-final-soln.pdf): <i>These practice problems are <b>not</b> for the ASU CSE 355 courses. However, even though these are practice problems for a NJIT final exam, a review of these problems showed they are similar to ones we've seen in class and on previous exams. Friendly reminder to take their procedures and approaches to the problems with a grain of salt and always follow the procedures taught in class.</i>
 
